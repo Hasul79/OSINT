@@ -30,10 +30,13 @@
 </ol>
 
 <h2>Материалы для самостоятельного изучения</h2>
+<br>
+ <p>- всех популярных инструментов и ресурсов для OSINT</p>
 
 [Absolute link to OSINT Framework](https://osintframework.com/){:target="_blank"}
 
- 
- - <p>всех популярных инструментов и ресурсов для OSINT</p>
+  <p>- всех популярных статей, исследований, кейсов и инструментов в OSINT</p>
+
+[Visit Awesome OSINT](https://github.com/jivoi/awesome-osint)
 
 
