@@ -33,10 +33,13 @@
 <br>
  <p>- всех популярных инструментов и ресурсов для OSINT</p>
 
-[Absolute link to OSINT Framework](https://osintframework.com/){:target="_blank"}
+[Absolute link to OSINT Framework](https://osintframework.com/)
 
   <p>- всех популярных статей, исследований, кейсов и инструментов в OSINT</p>
 
 [Visit Awesome OSINT](https://github.com/jivoi/awesome-osint)
 
+<p>- со стороны организации на целесообразность создания процесса киберразведки в собственной системе</p>
+
+[Read the Article on Habr](https://habr.com/ru/companies/tensor/articles/706656/)
 
