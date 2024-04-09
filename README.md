@@ -31,6 +31,9 @@
 
 <h2>Материалы для самостоятельного изучения</h2>
 
-[Visit OSINT Framework](https://osintframework.com/){:target="_blank"}  - <p>всех популярных инструментов и ресурсов для OSINT</p>
+[Absolute link to OSINT Framework](https://osintframework.com/){:target="_blank"}
+
+ 
+ - <p>всех популярных инструментов и ресурсов для OSINT</p>
 
 
